@@ -257,7 +257,7 @@ Using the gap detection patterns from [[Agentic Knowledge Mesh]]:
 # Zombie Infrastructure Report: Production Subscription
 
 **Generated:** 2026-04-16
-**Subscription:** AT&T Production (xxx-xxx-xxx)
+**Subscription:** tier-1 carrier Production (xxx-xxx-xxx)
 **Total Resources:** 247
 **Zombie Candidates:** 23 (9.3%)
 
@@ -396,7 +396,7 @@ Using the gap detection patterns from [[Agentic Knowledge Mesh]]:
 
 ## Why This Matters
 
-**For AT&T:**
+**For tier-1 carrier:**
 - Large subscriptions accumulate zombies
 - $100K+/year in potential savings is realistic
 - Compliance: undocumented resources are audit risks
